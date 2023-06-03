@@ -1,0 +1,111 @@
+body{
+    background-color: aliceblue;
+}
+.a1{
+    width: 900px;
+    height: 1000px;
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.a2{
+    width: 900px;
+    height: 120px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.a3{
+    width: 225px;
+    height: 120px;
+    background-color: black;
+}
+.a4{
+    width: 225px;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.a5{
+    width: 225px;
+    height: 60px;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.a6{
+    width: 225px;
+    height: 60px;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.a7{
+    width: 675px;
+    height: 60px;
+    background-color: aliceblue;
+    margin-left: 225px;
+    margin-top: -60px;
+}
+.b1{
+    width: 900px;
+    height: 320px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b2{
+    width: 900px;
+    height: 400px;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+.b3{
+    width: 900px;
+    height: 160px;
+    background-color: aliceblue;
+}
+.c1{
+    width: 200px;
+    height: 400px;
+    margin-left: 27px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c2{
+    width: 200px;
+    height: 400px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c3{
+    width: 200px;
+    height: 400px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c4{
+    width: 200px;
+    height: 400px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a{color: blue;font-size: 20px;}
+a:link{text-decoration: none;}
+a:hover{color: cadetblue;}
